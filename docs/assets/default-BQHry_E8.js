@@ -1,1 +1,0 @@
-import{_ as s,r as c,o as e,c as o,w as a,a as _,T as l,b as f}from"./index-DfJa03zF.js";const u={};function i(d,m){const t=c("router-view");return e(),o(t,null,{default:a(({Component:n,route:r})=>[_(l,{name:"fade",mode:"out-in",appear:""},{default:a(()=>[(e(),o(f(n),{key:r.fullPath}))]),_:2},1024)]),_:1})}const v=s(u,[["render",i]]);export{v as default};

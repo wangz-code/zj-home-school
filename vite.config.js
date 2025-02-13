@@ -21,7 +21,7 @@ export default defineConfig({
 			],
 		}),
 	],
-	base: "./",
+	base: "/zj-home-school",
 	server: {
 		proxy: {},
 	},
