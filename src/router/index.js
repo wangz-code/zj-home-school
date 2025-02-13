@@ -32,6 +32,14 @@ const router = createRouter({
 	history: createWebHistory(),
 	routes: [
 		{
+			path: "/",
+			name: "Root",
+			component: () => import("@/views/welcome/root.vue"),
+			meta: {
+				title: "Root",
+			},
+		},
+		{
 			path: "/zj-home-school",
 			children: [
 				{
