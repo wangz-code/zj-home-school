@@ -32,7 +32,7 @@ const router = createRouter({
 	history: createWebHistory(),
 	routes: [
 		{
-			path: "/",
+			path: "/zj-home-school",
 			children: [
 				{
 					path: "",
